@@ -272,6 +272,5 @@ A continuación se muestra Netbeans con la pestaña **Inspector** para todos los
 
 ![Todos los proyectos abiertos](img/inspect3.png)
 
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/serporion/Test-JUnit5-Aritmetica/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/serporion/Test-JUnit5-Aritmetica/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/serporion/Test-JUnit5-Aritmetica/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/serporion/Test-JUnit5-Aritmetica/tree/circleci-project-setup)
 
