@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build:
+  my-build:
   docker:
     - image: cimg/base:stable
   steps:
@@ -12,6 +12,6 @@ jobs:
 
 workflows:
   #version: 2
-  build-workflow:
+  my-build-workflow:
     jobs:
-      - build
+      - my-build
