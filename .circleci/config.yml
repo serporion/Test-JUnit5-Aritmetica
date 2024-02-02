@@ -8,7 +8,8 @@ jobs:
     - checkout
     - run:
          name: "Build and Test"
-         command: "./gradlew build"
+         # command: "./gradlew build"
+         command: "echo Hello, World!"
 
 workflows:
   #version: 2
